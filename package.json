@@ -1,0 +1,22 @@
+{
+  "name": "dalek-maincomputer",
+  "version": "0.0.1",
+  "description": "Dalek MainComputer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haraldmbs/Dalek-MainComputer.git"
+  },
+  "keywords": [
+    "Dalek"
+  ],
+  "author": "Haraldmbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haraldmbs/Dalek-MainComputer/issues"
+  },
+  "homepage": "https://github.com/haraldmbs/Dalek-MainComputer#readme"
+}
